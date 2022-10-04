@@ -40,17 +40,6 @@
 - [XSS Attack Tools](#xss-attack-tools)
 - [Steganograhy tools](#steganograhy-tools)
 - [Other tools](#other-tools)
-    - [SocialMedia Bruteforce](#socialmedia-bruteforce)
-    - [Android Hacking tools](#android-hacking-tools)
-    - [IDN Homograph Attack](#idn-homograph-attack)
-    - [Email Verify tools](#email-verify-tools)
-    - [Hash cracking tools](#hash-cracking-tools)
-    - [Wifi Deauthenticate](#wifi-deauthenticate)
-    - [SocialMedia Finder](#socialmedia-finder)
-    - [Payload Injector](#payload-injector)
-    - [Web crawling](#web-crawling)
-    - [Mix tools](#mix-tools)
-
 
 ### Anonymously Hiding Tools
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg)
