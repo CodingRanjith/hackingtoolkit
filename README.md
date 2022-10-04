@@ -183,36 +183,14 @@
 - [Whitespace](https://github.com/beardog108/snow10)
 ### Other tools
 #### SocialMedia Bruteforce
-- [Instagram Attack](https://github.com/chinoogawa/instaBrute)
-- [AllinOne SocialMedia Attack](https://github.com/Matrix07ksa/Brute_Force)
-- [Facebook Attack](https://github.com/Matrix07ksa/Brute_Force)
-- [Application Checker](https://github.com/jakuta-tech/underhanded)
 #### Android Hacking tools
-- [Keydroid](https://github.com/F4dl0/keydroid)
-- [MySMS](https://github.com/papusingh2sms/mysms)
-- [Lockphish (Grab target LOCK PIN)](https://github.com/JasonJerry/lockphish)
-- [DroidCam (Capture Image)](https://github.com/kinghacker0/WishFish)
-- [EvilApp (Hijack Session)](https://github.com/crypticterminal/EvilApp)
-- [HatCloud(Bypass CloudFlare for IP)](https://github.com/HatBashBR/HatCloud)
 #### IDN Homograph Attack
-- [EvilURL](https://github.com/UndeadSec/EvilURL)
 #### Email Verify tools
-- [Knockmail](https://github.com/4w4k3/KnockMail)
 #### Hash cracking tools
-- [Hash Buster](https://github.com/s0md3v/Hash-Buster)
 #### Wifi Deauthenticate
-- [WifiJammer-NG](https://github.com/MisterBianco/wifijammer-ng)
-- [KawaiiDeauther](https://github.com/aryanrtm/KawaiiDeauther)
 #### SocialMedia Finder
-- [Find SocialMedia By Facial Recognation System](https://github.com/Greenwolf/social_mapper)
-- [Find SocialMedia By UserName](https://github.com/xHak9x/finduser)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
-- [SocialScan | Username or Email](https://github.com/iojw/socialscan)
 #### Payload Injector
-- [Debinject](https://github.com/UndeadSec/Debinject)
-- [Pixload](https://github.com/chinarulezzz/pixload)
 #### Web crawling
-- [Gospider](https://github.com/jaeles-project/gospider)
 
 
 ## Installation For Linux 
