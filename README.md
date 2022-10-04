@@ -181,7 +181,7 @@
 - [StegoCracker](https://github.com/W1LDN16H7/StegoCracker)
 - [Whitespace](https://github.com/beardog108/snow10)
 ### Other tools
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h17.jpg)
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h16.jpg)
 - SocialMedia Bruteforce
 - Android Hacking tools
 - IDN Homograph Attack
