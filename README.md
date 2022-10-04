@@ -69,6 +69,7 @@
 - [Port Scanner - Ranger Reloaded (Python 3+)](https://github.com/joeyagreco/ranger-reloaded)
 - [Breacher](https://github.com/s0md3v/Breacher)
 ### Wordlist Generator
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h2.jpg)
 - [Cupp](https://github.com/Mebus/cupp.git)
 - [WordlistCreator](https://github.com/Z4nzu/wlcreator)
 - [Goblin WordGenerator](https://github.com/UndeadSec/GoblinWordGenerator.git)
@@ -112,6 +113,7 @@
 - [BlackPhish](https://github.com/iinc0gnit0/BlackPhish)
 - [MashPhish](https://github.com/jaykali/maskphish)
 ### Web Attack tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h6.jpg)
 - [Web2Attack](https://github.com/santatic/web2attack)
 - Skipfish
 - [SubDomain Finder](https://github.com/aboul3la/Sublist3r)
@@ -120,9 +122,11 @@
 - [Sub-Domain TakeOver](https://github.com/m4ll0k/takeover)
 - [Dirb](https://gitlab.com/kalilinux/packages/dirb)
 ### Post exploitation tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h7.jpg)
 - [Vegile - Ghost In The Shell](https://github.com/Screetsec/Vegile)
 - [Chrome Keylogger](https://github.com/UndeadSec/HeraKeylogger)
 ### Forensic tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h8.jpg)
 - Autopsy
 - Wireshark
 - [Bulk extractor](https://github.com/simsong/bulk_extractor)
@@ -139,23 +143,28 @@
 - [Mob-Droid](https://github.com/kinghacker0/Mob-Droid)
 - [Enigma](https://github.com/UndeadSec/Enigma)
 ### Exploit framework
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h10.jpg)
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [WebSploit](https://github.com/The404Hacking/websploit )
 - [Commix](https://github.com/commixproject/commix)
 - [Web2Attack](https://github.com/santatic/web2attack)
 ### Reverse engineering tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h11.jpg)
 - [Androguard](https://github.com/androguard/androguard )
 - [Apk2Gold](https://github.com/lxdvs/apk2gold )
 - [JadX](https://github.com/skylot/jadx)
 ### DDOS Attack Tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h12.jpg)
 - SlowLoris
 - [Asyncrone | Multifunction SYN Flood DDoS Weapon](https://github.com/fatihsnsy/aSYNcrone)
 - [UFOnet](https://github.com/epsylon/ufonet)
 - [GoldenEye](https://github.com/jseidl/GoldenEye)
 ### Remote Administrator Tools (RAT)
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h13.jpg)
 - [Stitch](https://github.com/nathanlopez/Stitch)
 - [Pyshell](https://github.com/knassar702/pyshell)
 ### XSS Attack Tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h14.jpg)
 - [DalFox(Finder of XSS)](https://github.com/hahwul/dalfox)
 - [XSS Payload Generator](https://github.com/capture0x/XSS-LOADER.git)
 - [Extended XSS Searcher and Finder](https://github.com/Damian89/extended-xss-search)
@@ -166,11 +175,13 @@
 - [Advanced XSS Detection Suite](https://github.com/UltimateHackers/XSStrike)
 - [RVuln](https://github.com/iinc0gnit0/RVuln)
 ### Steganograhy tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h15.jpg)
 - SteganoHide
 - StegnoCracker
 - [StegoCracker](https://github.com/W1LDN16H7/StegoCracker)
 - [Whitespace](https://github.com/beardog108/snow10)
 ### Other tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h17.jpg)
 - SocialMedia Bruteforce
 - Android Hacking tools
 - IDN Homograph Attack
