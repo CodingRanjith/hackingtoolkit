@@ -85,6 +85,7 @@
 - [Goblin WordGenerator](https://github.com/UndeadSec/GoblinWordGenerator.git)
 - [Password list (1.4 Billion Clear Text Password)](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
 ### Wireless attack tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h3.jpg)
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/wifipumpkin3)
 - [pixiewps](https://github.com/wiire/pixiewps)
 - [Bluetooth Honeypot GUI Framework](https://github.com/andrewmichaelsmith/bluepot)
@@ -95,6 +96,7 @@
 - [Fastssh](https://github.com/Z4nzu/fastssh)
 - Howmanypeople
 ### SQL Injection Tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h4.jpg)
 - [Sqlmap tool](https://github.com/sqlmapproject/sqlmap)
 - [NoSqlMap](https://github.com/codingo/NoSQLMap)
 - [Damn Small SQLi Scanner](https://github.com/stamparm/DSSS)
@@ -138,6 +140,7 @@
 - [Disk Clone and ISO Image Aquire](https://guymager.sourceforge.io/)
 - [Toolsley](https://www.toolsley.com/)
 ### Payload creation tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h9.jpg)
 - [The FatRat](https://github.com/Screetsec/TheFatRat)
 - [Brutal](https://github.com/Screetsec/Brutal)
 - [Stitch](https://nathanlopez.github.io/Stitch)
