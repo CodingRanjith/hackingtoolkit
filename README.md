@@ -1,5 +1,5 @@
 ### All in One Hacking tool Kit For Hackers🥇
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk4.jpg)
+![]()
 
 ## Update Available V2.0 🚀 
 - [x] Added New Tools
@@ -20,6 +20,9 @@
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk3.jpg)
 
 # Hackingtool Menu 
+
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
+
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
 - [Information gathering tools](#information-gathering-tools)
 - [Wordlist Generator](#wordlist-generator)
@@ -50,8 +53,13 @@
 
 
 ### Anonymously Hiding Tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg)
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Multitor](https://github.com/trimstray/multitor)
+- [Localtonet](https://localtonet.com)
+- [Pagekite](https://pagekite.net)
+- [Portmap](https://portmap.io)
+- [Ngrok](https://ngrok.com/download)
 ### Information gathering tools
 - [Network Map (nmap)](https://github.com/nmap/nmap)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
