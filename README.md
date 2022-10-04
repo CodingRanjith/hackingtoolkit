@@ -182,15 +182,15 @@
 - [StegoCracker](https://github.com/W1LDN16H7/StegoCracker)
 - [Whitespace](https://github.com/beardog108/snow10)
 ### Other tools
-#### SocialMedia Bruteforce
-#### Android Hacking tools
-#### IDN Homograph Attack
-#### Email Verify tools
-#### Hash cracking tools
-#### Wifi Deauthenticate
-#### SocialMedia Finder
-#### Payload Injector
-#### Web crawling
+- SocialMedia Bruteforce
+- Android Hacking tools
+- IDN Homograph Attack
+- Email Verify tools
+- Hash cracking tools
+- Wifi Deauthenticate
+- SocialMedia Finder
+- Payload Injector
+- Web crawling
 
 
 ## Installation For Linux 
