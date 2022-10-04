@@ -1,12 +1,13 @@
 ### All in One Hacking tool Kit For Hackers🥇
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk4.jpg)
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [TECHACKODE](https://techackode.blogspot.com)
-
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk1.jpg)
-
 ## Update Available V2.0 🚀 
-- [x] Added New Tools 
+- [x] Added New Tools
+    - [x] Ngrok - Your web services running in any cloud or private network, or your machine
+    - [x] Portmap - Make your home PC available from Internet without real IP address
+    - [x] Pagekite - Make your sites public, but keep your home IP hidden
+    - [x] Localtonet - Public URLs for Http, Tcp, Udp tun
+    - [x] PhoneInfoga - Advanced information gathering & OSINT framework for phone numbers
     - [x] Thanos - Browser in browser phishing tool 
     - [x] Hiddeneye Fixed - Modern Phishing tool
     - [x] AutoPhisher - Newly Cloned Website's Phishing tool
