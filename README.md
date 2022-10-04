@@ -61,7 +61,9 @@
 - [Portmap](https://portmap.io)
 - [Ngrok](https://ngrok.com/download)
 ### Information gathering tools
+![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h1.jpg)
 - [Network Map (nmap)](https://github.com/nmap/nmap)
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
 - Port scanning
 - Host to IP 
