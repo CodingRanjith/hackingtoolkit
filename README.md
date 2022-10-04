@@ -12,6 +12,9 @@
     - [x] Hiddeneye Fixed - Modern Phishing tool
     - [x] AutoPhisher - Newly Cloned Website's Phishing tool
     - [x] QRLJacking - WhatsApp qrl captured tool
+    - [x] AdvPhishing - This is Advance Phishing Tool ! OTP PHISHING
+    - [x] BlackEye - The ultimate phishing tool with 38 websites available!
+    - [x] Miskphish - Hide phishing URL under a normal looking URL (google.com or facebook.com)
     - [x] Biginner Friendly - Anyone can understand easily 
 
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk3.jpg)
