@@ -208,14 +208,7 @@
     sudo python3 htk.py
 
 
-#### Thanks to original Author of the tools used in hackingtoolkit
-
 <h4>Please Don't Use for illegal Activity</h4>
-
-### To do 
-- [ ] Release Tool 
-- [ ] Add Tools for CTF
-- [ ] Want to do automatic 
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
