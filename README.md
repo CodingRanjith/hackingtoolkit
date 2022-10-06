@@ -1,6 +1,5 @@
 ### All in One Hacking tool Kit For Hackers🥇
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DaSgGn_HWw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://youtu.be/DaSgGn_HWw4
 ## Update Available V2.0 🚀 
 - [x] Added New Tools
     - [x] Ngrok - Your web services running in any cloud or private network, or your machine
