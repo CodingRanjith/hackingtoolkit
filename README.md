@@ -1,10 +1,12 @@
-### All in One Hacking tool Kit For Hackers🥇
+<h1 align="center">All in One Hacking tool Kit For Hackers🥇</h1><br/>
+
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
 # Support me
 <a href="https://youtu.be/DaSgGn_HWw4"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
 ![](https://youtu.be/DaSgGn_HWw4)
 ## Update Available V2.0 🚀 
 - [x] Added New Tools
+    - [x] PyPhisher - Easy to use phishing tool with 77 website templates
     - [x] Ngrok - Your web services running in any cloud or private network, or your machine
     - [x] Portmap - Make your home PC available from Internet without real IP address
     - [x] Pagekite - Make your sites public, but keep your home IP hidden
@@ -99,6 +101,7 @@
 ### Phishing attack tools
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h5.jpg)
 - [AutoPhisher](https://github.com/CodingRanjith/autophisher)
+- [PyPhisher](https://github.com/KasRoudra/PyPhisher)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
 - [Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - [SocialFish](https://github.com/UndeadSec/SocialFish)
