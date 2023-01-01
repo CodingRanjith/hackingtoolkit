@@ -1,32 +1,27 @@
-<h1 align="center">All in One Hacking tool Kit For Hackers🥇</h1><br/>
+### All in One Hacking tool For Hackers🥇
+![](https://img.shields.io/github/license/Z4nzu/hackingtool)
+![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
+![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
+![](https://img.shields.io/badge/Python-3-blue)
+![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
+![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
+![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
+[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
-# Support me
-<a href="https://youtu.be/DaSgGn_HWw4"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
-![](https://youtu.be/DaSgGn_HWw4)
-## Update Available V2.0 🚀 
-- [x] Added New Tools
-    - [x] PyPhisher - Easy to use phishing tool with 77 website templates
-    - [x] Ngrok - Your web services running in any cloud or private network, or your machine
-    - [x] Portmap - Make your home PC available from Internet without real IP address
-    - [x] Pagekite - Make your sites public, but keep your home IP hidden
-    - [x] Localtonet - Public URLs for Http, Tcp, Udp tun
-    - [x] PhoneInfoga - Advanced information gathering & OSINT framework for phone numbers
-    - [x] Thanos - Browser in browser phishing tool 
-    - [x] Hiddeneye Fixed - Modern Phishing tool
-    - [x] AutoPhisher - Newly Cloned Website's Phishing tool
-    - [x] QRLJacking - WhatsApp qrl captured tool
-    - [x] AdvPhishing - This is Advance Phishing Tool ! OTP PHISHING
-    - [x] BlackEye - The ultimate phishing tool with 38 websites available!
-    - [x] Miskphish - Hide phishing URL under a normal looking URL (google.com or facebook.com)
-    - [x] Biginner Friendly - Anyone can understand easily 
+#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
 
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/htk3.jpg)
+## Update Available V1.1.0 🚀 
+- [x] Added New Tools 
+    - [x] Reverse Engineering
+    - [x] RAT Tools
+    - [x] Web Crawling 
+    - [x] Payload Injector
+- [x] Multitor Tools update
+- [X] Added Tool in wifijamming
+- [X] Added Tool in steganography
 
-# Hackingtool Menu 
-
-
-
+# Hackingtool Menu 🧰
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
 - [Information gathering tools](#information-gathering-tools)
 - [Wordlist Generator](#wordlist-generator)
@@ -44,6 +39,16 @@
 - [XSS Attack Tools](#xss-attack-tools)
 - [Steganograhy tools](#steganograhy-tools)
 - [Other tools](#other-tools)
+    - [SocialMedia Bruteforce](#socialmedia-bruteforce)
+    - [Android Hacking tools](#android-hacking-tools)
+    - [IDN Homograph Attack](#idn-homograph-attack)
+    - [Email Verify tools](#email-verify-tools)
+    - [Hash cracking tools](#hash-cracking-tools)
+    - [Wifi Deauthenticate](#wifi-deauthenticate)
+    - [SocialMedia Finder](#socialmedia-finder)
+    - [Payload Injector](#payload-injector)
+    - [Web crawling](#web-crawling)
+    - [Mix tools](#mix-tools)
 
 ### Anonymously Hiding Tools
 ![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg)
@@ -186,34 +191,89 @@
 - [StegoCracker](https://github.com/W1LDN16H7/StegoCracker)
 - [Whitespace](https://github.com/beardog108/snow10)
 ### Other tools
-![](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h16.jpg)
-- SocialMedia Bruteforce
-- Android Hacking tools
-- IDN Homograph Attack
-- Email Verify tools
-- Hash cracking tools
-- Wifi Deauthenticate
-- SocialMedia Finder
-- Payload Injector
-- Web crawling
+#### SocialMedia Bruteforce
+- [Instagram Attack](https://github.com/chinoogawa/instaBrute)
+- [AllinOne SocialMedia Attack](https://github.com/Matrix07ksa/Brute_Force)
+- [Facebook Attack](https://github.com/Matrix07ksa/Brute_Force)
+- [Application Checker](https://github.com/jakuta-tech/underhanded)
+#### Android Hacking tools
+- [Keydroid](https://github.com/F4dl0/keydroid)
+- [MySMS](https://github.com/papusingh2sms/mysms)
+- [Lockphish (Grab target LOCK PIN)](https://github.com/JasonJerry/lockphish)
+- [DroidCam (Capture Image)](https://github.com/kinghacker0/WishFish)
+- [EvilApp (Hijack Session)](https://github.com/crypticterminal/EvilApp)
+- [HatCloud(Bypass CloudFlare for IP)](https://github.com/HatBashBR/HatCloud)
+#### IDN Homograph Attack
+- [EvilURL](https://github.com/UndeadSec/EvilURL)
+#### Email Verify tools
+- [Knockmail](https://github.com/4w4k3/KnockMail)
+#### Hash cracking tools
+- [Hash Buster](https://github.com/s0md3v/Hash-Buster)
+#### Wifi Deauthenticate
+- [WifiJammer-NG](https://github.com/MisterBianco/wifijammer-ng)
+- [KawaiiDeauther](https://github.com/aryanrtm/KawaiiDeauther)
+#### SocialMedia Finder
+- [Find SocialMedia By Facial Recognation System](https://github.com/Greenwolf/social_mapper)
+- [Find SocialMedia By UserName](https://github.com/xHak9x/finduser)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [SocialScan | Username or Email](https://github.com/iojw/socialscan)
+#### Payload Injector
+- [Debinject](https://github.com/UndeadSec/Debinject)
+- [Pixload](https://github.com/chinarulezzz/pixload)
+#### Web crawling
+- [Gospider](https://github.com/jaeles-project/gospider)
+#### Mix tools
+- Terminal Multiplexer
 
-
-## Installation For Linux 
+## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/CodingRanjith/hackingtoolkit.git
+    git clone https://github.com/Z4nzu/hackingtool.git
     
-    cd hackingtoolkit
+    chmod -R 755 hackingtool  
     
-    chmod -R 755 htk.py
+    cd hackingtool
     
     sudo pip3 install -r requirement.txt
     
-    sudo python3 htk.py
+    bash install.sh
+    
+    sudo hackingtool
+
+ After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
+
+## Use image with Docker
+
+### Run in one click
+`docker run -it vgpastor/hackingtool`
+
+### Build locally
+`docker-compose build`
+
+`docker-compose run hackingtool`
+
+- If need open other ports you can edit the docker-compose.yml file
+- Volumes are mounted in the container to persist data and can share files between the host and the container
 
 
+#### Thanks to original Author of the tools used in hackingtool
+
+<img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
+
+### To do 
+- [ ] Release Tool 
+- [ ] Add Tools for CTF
+- [ ] Want to do automatic 
+
+## Social Media :mailbox_with_no_mail:
+[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
+##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
+![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<a href="https://www.buymeacoffee.com/Zinzu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
