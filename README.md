@@ -1,19 +1,17 @@
-### All in One Hacking toolKit For Hackers🥇
+### All in One Hacking toolKit For Hackers, Penetration Tester, CyberSecurity 🥇
 
 <img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg" alt="hackingtoolkit"/>
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) 
+#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE]() 
 
 ## Update Available 3.0  
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
-    - [x] Reverse Engineering
-    - [x] RAT Tools
-    - [x] Web Crawling 
-    - [x] Payload Injector
-- [x] Multitor Tools update
+- [x] 200 + Additional Tools
+- [x] Updating Everyday 
 - [X] Added Tool in wifijamming
 - [X] Added Tool in steganography
+- [X] Pull reguests 
 
 
 
@@ -22,20 +20,20 @@
 - [Anonymously Hiding Tools (6)](#anonymously-hiding-tools)
 - [Information Gathering Tools (16)](#information-gathering-tools)
 - [Wordlist Generator (5)](#wordlist-generator)
-- [Wireless Attack Tools](#wireless-attack-tools)
-- [SQL Injection Tools](#sql-injection-tools)
-- [Phishing Attack Tools](#phishing-attack-tools)
-- [Web Attack Tools](#web-attack-tools)
-- [Post exploitation tools](#post-exploitation-tools)
-- [Forensic tools](#forensic-tools)
-- [Payload creation tools](#payload-creation-tools)
-- [Exploit framework](#exploit-framework)
-- [Reverse engineering tools](#reverse-engineering-tools)
-- [DDOS Attack Tools](#ddos-attack-tools)
-- [Remote Administrator Tools (RAT)](#remote-administrator-tools--rat-)
-- [XSS Attack Tools](#xss-attack-tools)
-- [Steganograhy tools](#steganograhy-tools)
-- [Other tools](#other-tools)
+- [Wireless Attack Tools (9)](#wireless-attack-tools)
+- [SQL Injection Tools (7)](#sql-injection-tools)
+- [Phishing Attack Tools (16)](#phishing-attack-tools)
+- [Web Attack Tools (7)](#web-attack-tools)
+- [Post Exploitation Tools (2)](#post-exploitation-tools)
+- [Forensic Tools (5)](#forensic-tools)
+- [Payload Creation Tools (8)](#payload-creation-tools)
+- [Exploit Framework (4)](#exploit-framework)
+- [Reverse Engineering Tools (3)](#reverse-engineering-tools)
+- [DDOS Attack Tools (4)](#ddos-attack-tools)
+- [Remote Administrator Tools (RAT) (2)](#remote-administrator-tools--rat-)
+- [XSS Attack Tools (9)](#xss-attack-tools)
+- [Steganograhy Tools (4)](#steganograhy-tools)
+- [Other Tools (120)](#other-tools)
     - [SocialMedia Bruteforce](#socialmedia-bruteforce)
     - [Android Hacking tools](#android-hacking-tools)
     - [IDN Homograph Attack](#idn-homograph-attack)
