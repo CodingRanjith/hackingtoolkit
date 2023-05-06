@@ -19,13 +19,13 @@
 
 # Hackingtoolkit Menu 
 
-- [Anonymously Hiding Tools (5)](#anonymously-hiding-tools)
-- [Information Gathering Tools (15)](#information-gathering-tools)
-- [Wordlist Generator](#wordlist-generator)
-- [Wireless attack tools](#wireless-attack-tools)
+- [Anonymously Hiding Tools (6)](#anonymously-hiding-tools)
+- [Information Gathering Tools (16)](#information-gathering-tools)
+- [Wordlist Generator (5)](#wordlist-generator)
+- [Wireless Attack Tools](#wireless-attack-tools)
 - [SQL Injection Tools](#sql-injection-tools)
-- [Phishing attack tools](#phishing-attack-tools)
-- [Web Attack tools](#web-attack-tools)
+- [Phishing Attack Tools](#phishing-attack-tools)
+- [Web Attack Tools](#web-attack-tools)
 - [Post exploitation tools](#post-exploitation-tools)
 - [Forensic tools](#forensic-tools)
 - [Payload creation tools](#payload-creation-tools)
