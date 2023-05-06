@@ -1,10 +1,11 @@
-### All in One Hacking toolKit For Hackers, Penetration Tester, CyberSecurity 🥇
+# All in One Hacking toolKit For Hackers, Penetration Tester, CyberSecurity 🥇
 
 <img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg" alt="hackingtoolkit"/>
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE]() 
 
 ## Update Available 3.0  
+
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
 - [x] 200 + Additional Tools
@@ -283,7 +284,7 @@
 - Terminal Multiplexer
 
 
-## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+## Installation For Linux 
 
 #### This Tool Must Run As ROOT !!!
 
@@ -295,13 +296,23 @@
     
     sudo python3 htk.py
 
+## Licence
 
-#### Thanks to original Author of the tools used in hackingtoolkit
+GNU General Public License v3.0
+
+## Legal Notice
+
+* This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
+
+#### Thanks to Original Author of the Tools used in hackingtoolkit
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
 
-
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
 #### Thank you..!!
+
+## Donate!
+
+### PayPal: https://bit.ly/3QKknix
