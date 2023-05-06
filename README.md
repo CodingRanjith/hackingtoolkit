@@ -2,9 +2,9 @@
 
 <img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg" alt="hackingtoolkit"/>
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
+#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) 
 
-## Update Available V1.2.0 🚀 
+## Update Available 2.0 🚀 
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
     - [x] Reverse Engineering
@@ -18,7 +18,8 @@
 
 
 # Hackingtoolkit Menu 
-- [Anonymously Hiding Tools](#anonymously-hiding-tools)
+
+- [Anonymously Hiding Tools (5)](#anonymously-hiding-tools)
 - [Information gathering tools](#information-gathering-tools)
 - [Wordlist Generator](#wordlist-generator)
 - [Wireless attack tools](#wireless-attack-tools)
@@ -47,7 +48,7 @@
     - [Mix tools](#mix-tools)
 
 
-### Anonymously Hiding Tools
+### Anonymously Hiding Tools 
 
 <img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg" alt="Anonymously Hiding Tools"/>
 
