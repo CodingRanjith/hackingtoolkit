@@ -1,4 +1,4 @@
-# All in One Hacking toolKit For Hackers, Penetration Tester, CyberSecurity 🥇
+# All in One Hacking toolKit For Hackers, Penetration Tester and CyberSecurity 🥇
 
 <img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg" alt="hackingtoolkit"/>
 
