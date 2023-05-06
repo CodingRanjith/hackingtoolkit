@@ -17,7 +17,7 @@
 
 
 
-# Hackingtool Menu 🧰
+# Hackingtoolkit Menu 
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
 - [Information gathering tools](#information-gathering-tools)
 - [Wordlist Generator](#wordlist-generator)
@@ -48,13 +48,19 @@
 
 
 ### Anonymously Hiding Tools
+
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/01.jpg" alt="hackingtoolkit"/>
+
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Multitor](https://github.com/trimstray/multitor)
+- [Ngrok](https://ngrok.com/download)
+- [Portmap](https://portmap.io)
+- [Pagekite](https://pagekite.net)
 ### Information gathering tools
 - [Network Map (nmap)](https://github.com/nmap/nmap)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
-- Port scanning
-- Host to IP 
+##Port scanning
+#Host to IP 
 - [Xerosploit](https://github.com/LionSec/xerosploit)
 - [RED HAWK (All In One Scanning)](https://github.com/Tuhinshubhra/RED_HAWK)
 - [ReconSpider(For All Scanning)](https://github.com/bhavsec/reconspider)
