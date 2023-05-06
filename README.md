@@ -4,7 +4,7 @@
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) 
 
-## Update Available 2.0 🚀 
+## Update Available 3.0  
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
     - [x] Reverse Engineering
@@ -20,7 +20,7 @@
 # Hackingtoolkit Menu 
 
 - [Anonymously Hiding Tools (5)](#anonymously-hiding-tools)
-- [Information gathering tools](#information-gathering-tools)
+- [Information Gathering Tools (15)](#information-gathering-tools)
 - [Wordlist Generator](#wordlist-generator)
 - [Wireless attack tools](#wireless-attack-tools)
 - [SQL Injection Tools](#sql-injection-tools)
@@ -59,14 +59,17 @@
 - [Pagekite](https://pagekite.net)
 
 
-### Information gathering tools
+### Information Gathering Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h1.jpg" alt=""/>
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h1.jpg" alt="Information gathering tools"/>
 
 - [Network Map (nmap)](https://github.com/nmap/nmap)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
-##Port scanning
-#Host to IP 
+
+
+## Port scanning
+# Host to IP 
+
 - [Xerosploit](https://github.com/LionSec/xerosploit)
 - [RED HAWK (All In One Scanning)](https://github.com/Tuhinshubhra/RED_HAWK)
 - [ReconSpider(For All Scanning)](https://github.com/bhavsec/reconspider)
@@ -83,13 +86,18 @@
 
 ### Wordlist Generator
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h2.jpg" alt=""/>
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h2.jpg" alt="Wordlist Generator"/>
 
 - [Cupp](https://github.com/Mebus/cupp.git)
 - [WordlistCreator](https://github.com/Z4nzu/wlcreator)
 - [Goblin WordGenerator](https://github.com/UndeadSec/GoblinWordGenerator.git)
 - [Password list (1.4 Billion Clear Text Password)](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
-### Wireless attack tools
+
+
+### Wireless Attack Tools
+
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h3.jpg" alt="Wireless Attack Tools"/>
+
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/wifipumpkin3)
 - [pixiewps](https://github.com/wiire/pixiewps)
 - [Bluetooth Honeypot GUI Framework](https://github.com/andrewmichaelsmith/bluepot)
@@ -103,7 +111,7 @@
 
 ### SQL Injection Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg" alt=""/>
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h4.jpg" alt="SQL Injection Tools"/>
 
 - [Sqlmap tool](https://github.com/sqlmapproject/sqlmap)
 - [NoSqlMap](https://github.com/codingo/NoSQLMap)
@@ -112,7 +120,12 @@
 - [Blisqy - Exploit Time-based blind-SQL injection](https://github.com/JohnTroony/Blisqy)
 - [Leviathan - Wide Range Mass Audit Toolkit](https://github.com/leviathan-framework/leviathan)
 - [SQLScan](https://github.com/Cvar1984/sqlscan)
-### Phishing attack tools
+
+
+### Phishing Attack Tools
+
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h5.jpg" alt="SQL Injection Tools"/>
+
 - [Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - [SocialFish](https://github.com/UndeadSec/SocialFish)
 - [HiddenEye](https://github.com/DarkSecDevelopers/HiddenEye)
@@ -122,7 +135,12 @@
 - [QR Code Jacking](https://github.com/cryptedwolf/ohmyqr)
 - [ShellPhish](https://github.com/An0nUD4Y/shellphish)
 - [BlackPhish](https://github.com/iinc0gnit0/BlackPhish)
-### Web Attack tools
+
+
+### Web Attack Tools
+
+<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h6.jpg" alt="SQL Injection Tools"/>
+
 - [Web2Attack](https://github.com/santatic/web2attack)
 - Skipfish
 - [SubDomain Finder](https://github.com/aboul3la/Sublist3r)
@@ -130,6 +148,8 @@
 - [Blazy(Also Find ClickJacking)](https://github.com/UltimateHackers/Blazy)
 - [Sub-Domain TakeOver](https://github.com/m4ll0k/takeover)
 - [Dirb](https://gitlab.com/kalilinux/packages/dirb)
+
+
 ### Post exploitation tools
 - [Vegile - Ghost In The Shell](https://github.com/Screetsec/Vegile)
 - [Chrome Keylogger](https://github.com/UndeadSec/HeraKeylogger)
