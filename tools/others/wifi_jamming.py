@@ -14,7 +14,7 @@ class WifiJammerNG(HackingTool):
         'echo "python wifijammer.py [-a AP MAC] [-c CHANNEL] [-d] [-i INTERFACE] [-m MAXIMUM] [-k] [-p PACKETS] [-s SKIP] [-t TIME INTERVAL] [-D]"| boxes | lolcat',
         "cd wifijammer-ng;sudo python wifijammer.py"
     ]
-    PROJECT_URL = "https://github.com/MisterBianco/wifijammer-ng"
+    PROJECT_URL = "https://github.com/paragonsean/wifijammer-ng" # https://github.com/2ZZ/wifijammer-ng is no longer available I forked a copy of the orginal from https://github.com/2ZZ/wifijammer-ng
 
 
 class KawaiiDeauther(HackingTool):
