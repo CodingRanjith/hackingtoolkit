@@ -1,20 +1,48 @@
-# All in One Hacking toolKit For Hackers, Penetration Tester and CyberSecurity 🥇
+# All-in-One Hacking Toolkit for Hackers, Penetration Testers, and Cybersecurity 🥇
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg" alt="hackingtoolkit"/>
+Welcome to the **All-in-One Hacking Toolkit** — the ultimate toolkit designed for ethical hackers, penetration testers, and cybersecurity professionals. Whether you're just getting started or an advanced user, this toolkit offers everything you need for network analysis, vulnerability assessments, exploitation, and more.
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://www.youtube.com/@AutoGPT_Live) 
+## Pro Version of HackingTool
+Check out the **Pro Version** of the HackingToolkit for even more powerful features and tools:  
+[Get the Pro Version here](https://topmate.io/codingranjith/1241494)
 
-## Update Available 3.0  
+![Hacking Toolkit](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
 
-- [✔] Installation Bug Fixed
-- [x] Added New Tools 
-- [x] 200 + Additional Tools
-- [x] Updating Everyday 
-- [X] Added Tool in wifijamming
-- [X] Added Tool in steganography
-- [X] Pull reguests 
+---
 
+### Install Kali Linux on Windows 10 Without VirtualBox
+Watch the full tutorial on [YouTube](https://www.youtube.com/@AutoGPT_Live) to install **Kali Linux** directly on your Windows 10 system without the need for VirtualBox or other virtual machines!
 
+---
+
+## 🚀 Latest Version: 3.0  
+
+The **HackingToolkit** has been updated to version **3.0**, packed with amazing new features and improvements! Here's a quick overview of what's new in this release:
+
+- [✔] **Installation Bug Fixed**: The installation process has been refined and bugs found in previous versions have been resolved.
+- [x] **Added New Tools**: New tools have been integrated into the toolkit to enhance your ability to conduct security testing.
+- [x] **200+ Additional Tools**: Access over 200 additional tools focused on network analysis, penetration testing, vulnerability scanning, and more.
+- [x] **Daily Updates**: The toolkit is updated regularly to ensure you're always using the latest and most effective tools.
+- [X] **WiFi Jamming Tool Added**: A new Wi-Fi jamming tool has been added, enabling you to test wireless networks' security.
+- [X] **Steganography Tool Added**: A steganography tool for hiding and encrypting information within files has been introduced.
+- [X] **Pull Requests Open**: The toolkit is now open to the community for contributions! Submit your pull requests and help us improve and update the toolkit for everyone.
+
+---
+
+## Features
+
+- **Network Scanning**: Tools like Nmap, Wireshark, and more for deep network analysis.
+- **Vulnerability Scanning**: Identify vulnerabilities in systems using automated tools.
+- **Exploitation**: Integrated with popular exploitation frameworks such as Metasploit.
+- **WiFi Hacking**: Tools to crack and jam Wi-Fi networks.
+- **Web Application Security Testing**: Tools for SQL Injection, Cross-Site Scripting (XSS), and more.
+- **Password Cracking**: Powerful tools like John the Ripper and Hydra for password cracking.
+- **Social Engineering Tools**: Set up phishing campaigns and test human vulnerabilities.
+- **Steganography**: Hide sensitive data within image files using our steganography tool.
+- **Forensics Tools**: Tools to assist with incident response and digital forensics.
+- **Regular Updates**: Enjoy constant updates to ensure you have access to the latest tools and techniques.
+
+---
 
 # Hackingtoolkit Menu 
 
